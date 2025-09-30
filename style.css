@@ -7,58 +7,107 @@ body {
 }
 
 .nome {
-    font-family: 'Open Sauce One', sans-serif;
-    margin-left: 30px;
+    /*é o que está deixando o nome levemente para a direita e não colado no topo*/
+    margin-left: 50px;
     margin-top: 30px;
     margin-bottom: -200px;
 
 }
 
 a {
+    /*está removendo a linha do link e deixando a cor do texto branca*/
     text-decoration: none;
     color: white;
     margin-right: 40px;
 }
 
 .topo {
+    /*deixei no topo e alterei tamanho*/
     text-align: center;
     margin-top: 170px;
-    margin-left: 200px;
+    margin-left: 600px;
     font-size: 20px;
     margin-right: 10px;
     
 }
 
 .foto1 {
+    /*aumentei o tamanho da imagem e tirei do lado esquerdo*/
     text-align: left;
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 300px;
     
 }
 
-.texto1 {   
-    margin-top: -300px;
+.texto1 {
+    /*deixei o texto do lado da imagem*/
+    margin-top: -400px;
     width: 400px;
-    margin-left: 300px;
+    margin-left: 660px;
+    font-size: 22px;
+    
 }
 
 .segundo {
+    
     margin-top: 280px;
     text-align: right;
 }
 
-.img2 {
-    margin-right: 1000px;
-}
-
-.img3 {
-    margin-right: 1060px;
-    width: 200px;
+.atv {
+    /*deixei o titulo no centro e deixei abaixo da primeira parte*/
+    margin-top: 200px;
     text-align: center;
+    font-size: 28px;
 }
 
-.img4 {
-    margin-top: -1300px;
+.funk {
+    /*alterei a largura*/
+    width: 200px;
 }
+
+.textoht {
+    /*tirei da parede*/
+    margin-left: 295px;
+    font-size: 22px;
+}
+
+.imght {
+    /*deixi a img em baixo do texto*/
+    margin-left: 284px;
+}
+
+#habili {
+    /*só alterei o tamanho da fonte*/
+    font-size: 28px;
+}
+
+.textocss {
+    /*tirei da parede e alterei o tamanho*/
+    margin-left: 800px;
+    font-size: 22px;
+    margin-top: -350px;
+}
+
+.imgcss {
+    /*deixei em baixo do texto do css*/
+    margin-left: 785px;
+}
+
+.titulo {
+    font-size: 28px;
+}
+
+#fale {
+    font-size: 28px;
+    font-style: italic;
+    margin-top: 200px;
+}
+
+.logo {
+    height: 200px;
+}
+
+
 
 
