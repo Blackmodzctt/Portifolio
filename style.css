@@ -13,6 +13,9 @@ body {
     margin-bottom: -200px;
 
 }
+.eu {
+    font-size: 28px;
+}
 
 a {
     /*está removendo a linha do link e deixando a cor do texto branca*/
@@ -46,12 +49,6 @@ a {
     margin-left: 660px;
     font-size: 22px;
     
-}
-
-.segundo {
-    
-    margin-top: 280px;
-    text-align: right;
 }
 
 .atv {
@@ -96,6 +93,10 @@ a {
 
 .titulo {
     font-size: 28px;
+    margin-top: 200px;
+}
+.atv {
+    margin-top: 200px;
 }
 
 #fale {
@@ -106,6 +107,20 @@ a {
 
 .logo {
     height: 200px;
+}
+
+.c7 {
+    height: 300px;
+    width: 300px;
+    text-align: right;
+}
+
+.bloco {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    height: auto;
+
 }
 
 
