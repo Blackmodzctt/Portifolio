@@ -1,0 +1,1 @@
+Meu primeiro site Portifólio desde que eu comecei as aulas de programação web no IOs, montei um design simples no canva e repliquei no vscode fazendo algumas mudanças, não ficou tão bom quanto eu queria porém está aceitável.
