@@ -70,7 +70,7 @@ a {
 }
 
 .imght {
-    /*deixi a img em baixo do texto*/
+    /*tirei do lado esquerdo*/
     margin-left: 284px;
 }
 
@@ -124,25 +124,93 @@ a {
 }
 
 .textogit {
+    /*deixei centralizado e alterei o tamanho*/
     margin-left: 42%;
     height: auto;
     font-size: 22px;
 }
 
 .git {
+    /*tirei da esquerda e abaixei um pouco*/
     margin-left:30%;
     margin-top: 30px;
 }
 
 .java {
+    /*tirei a image da esquerda*/
     margin-left: 40%;
 }
 
 .textojava {
+    /*Deixando o texto centralizado*/
     margin-left: 43%;
     font-size: 22px;
     margin-top: 100px;
 }
 
+/*Parte das """"animações""""*/
 
+.git:hover {
+    /*fiz a imagem crescer quando passa o mouse*/
+    width: 310px;
+    height: 300px;
+}
 
+.github:hover {
+    /*fiz a imagem crescer quando passa o mouse*/
+    width: 300px;
+}
+
+.logo:hover {
+    /*fiz a imagem crescer quando passa o mouse*/
+    width: 340px;
+    height: 260px;
+}
+
+.java:hover {
+    width: 300px;
+    height: 400px;
+    margin-left: 500px;
+}
+
+.post:hover {
+    width: 400px;
+}
+
+.funk:hover {
+    width: 300px;
+}
+
+.blog:hover {
+    width: 600px;
+}
+
+.imght:hover {
+    width: 300px;
+    height: 400px;
+}
+
+.imgcss:hover {
+    width: 300px;
+    height: 400px;
+    margin-left: 750px;
+}
+
+.c7:hover{
+    width: 400px;
+    height: 450px;
+}
+
+/*rodapé*/
+
+.rodape {
+    /*coloquei no centro e tirei de baxio das imagens*/
+    margin-top: 200px;
+    text-align: center;
+}
+
+.pe {
+    /*adicioeni um fundo branco*/
+    background-color: white;
+    color: black;
+}
